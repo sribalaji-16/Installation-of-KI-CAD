@@ -1,5 +1,5 @@
 # Installation-of-KI-CAD
-In this repo you will find how to install ki cad open source EDA tools
+In this repo you will find how to install ki cad open source EDA tool
 
 ## Requirements (approx it requires 10 GB in HDD/SSD)
 -> Read the [requirements](https://www.kicad.org/help/system-requirements/)
